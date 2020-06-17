@@ -1,0 +1,62 @@
+body{margin: 0 40px;
+    align-items: center;
+    font-size: 100%;
+    background-color: #b5d8b7;
+}
+label{
+    width: 150px;;
+}
+
+.forma label{
+    width: 120px;
+    padding: 2%;
+}
+ul,ol,summary,details{
+list-style: none;
+padding: 0;
+}
+.formSize{
+width: 500px;
+
+}
+details summary::-webkit-details-marker {
+    display:none;
+  }
+
+.dropdown-menu {background-color: blanchedalmond;}
+.logo{ 
+    height: 17vh;
+    border: 1px white solid;
+    border-radius: 100%;
+    background-color: white;}
+    .zalia {
+        background-color: #218838;
+        padding: 2%;
+    }
+    .list-group-item.active{
+        background-color: #218838;
+        border-color:#218838;
+    }
+    .btn-primary{background-color: #218838;
+        border-color:#218838;
+    }
+    .btn-primary:hover  {
+        color: #fff;
+        background-color: #218838;
+        border-color: #1e7e34;
+    }
+    .btn-primary:active {
+        color: #fff;
+        background-color: #218838;
+        border-color: #1e7e34;
+    }
+    .content{
+        padding-top: 2%;
+    }
+    input[type="file"]{
+        display: none;
+    }
+    .white {
+        padding: 2%;
+        background-color: white;
+    }

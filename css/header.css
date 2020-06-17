@@ -1,0 +1,46 @@
+header{
+    display: inline-block;
+    /* margin: 0 auto; */
+    /* padding: 2%; */
+}
+/* .dropdown {padding: 2% 10px ;} */
+header .btn {
+    width: 150px;
+    margin: 60px 60px 0 20px ;}
+.banner img{ 
+    height: 17vh;
+    border: 1px white solid;
+    border-radius:100%;
+    background-color: white;}
+    .banner a{
+        border: none;
+    }
+.navbar {
+    /* position:sticky;
+    top:0; */
+    background-color: #218838;
+    
+}
+header ul{
+    margin:0;
+    padding: 0;
+}
+.row{
+    margin: 0;
+    padding: 0;
+}
+.col{
+    margin: 0 1px;
+    padding: 0;
+}
+.navbar-nav a{
+  
+    color:whitesmoke!important;
+    font-size: 200%;
+    margin: 0 10px;
+    
+}
+.navbar-item{
+    border: 1px solid black;
+    border-radius: 100%;
+}

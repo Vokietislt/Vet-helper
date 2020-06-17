@@ -1,0 +1,85 @@
+.invis {
+    padding: 2%;
+    background-color:whitesmoke ;
+}
+body{
+    background-color: #b5d8b7;
+}
+@media only screen and (max-width:  600px) {
+    body {
+     margin: 0!important;
+    }
+    .list-tab{
+        width: 90%;
+    }
+  }
+
+input[type=date]{
+    margin: 0 5px;
+}
+#cia input[type=button]{
+    color: whitesmoke;
+    background-color: #4CAF50;
+    border:none;
+    width: 40px;
+    height: 29px;
+}
+#cia input[type=button]:hover{
+    background-color: #b6ddb1;
+    color:#4CAF50;
+    
+}
+#cia input[type=text]
+{width: 90%;
+    background-color: whitesmoke;
+border: 0.5px  solid #b7beb8;
+}
+#cia input[type=text]:target
+{
+    border:0.5px solid dark;
+    background-color: rgb(172, 162, 162);
+
+}
+#cia div{
+    padding: 0.5% 0;
+}
+.output {
+    width: 200px;
+}
+.img input{
+    display: block;
+    padding: 0 1%;
+}
+input[type="file"] {
+    display: block;
+}
+.puses{
+    color:white;
+    border: 0.5px black solid;
+    /* margin: 0 2px 0 0;; */
+}
+.puses:first-child{
+background-color: #218838;
+
+}
+#genPDF{
+    width: 113px;
+}
+
+.lentele {
+    padding: 2% 0;
+}
+.irasai2 {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 40px;
+    /* background-color: green; */
+    /* border: 2px solid #4CAF50; */
+}
+.list-group-item.active{
+background-color: #218838;
+}
+
+.transfer{
+    background-color: #218838;
+}

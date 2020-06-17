@@ -1,0 +1,16 @@
+{
+  "name": "vet_programa",
+  "version": "1.0.0",
+  "description": "veterinarijos_app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laimonas_Vokietis",
+  "license": "ISC",
+  "dependencies": {
+    "Base64": "^1.0.2",
+    "app": "^0.1.0",
+    "jspdf": "^1.5.3"
+  }
+}
